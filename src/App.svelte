@@ -1,5 +1,6 @@
 <script>
 	import Greeting from "./components/Greeting.svelte"
+	import About from "./components/About.svelte"
 	import Footer from "./components/Footer.svelte"
 </script>
 
@@ -14,14 +15,13 @@
 		</ul>
 	</div>
 	<hr/>
-
+	<About />
 	<p class="text-center">******** END ********</p>
 	<Footer />
 </main>
 
 <style>
 	main {
-		text-align: center;
 		padding: 1em;
 		max-width: 450px;
 		margin: 0 auto;

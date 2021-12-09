@@ -1,0 +1,1 @@
+<p>Hello. My name is Ella, and I am a senior at Foothill High School.</p>

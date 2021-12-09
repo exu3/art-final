@@ -16,3 +16,9 @@
 <footer>
     <p>Congrats, you are the {randInt}{suffix} visitor of this website.</p>
 </footer>
+
+<style>
+    footer {
+        text-align: center;
+    }
+</style>
