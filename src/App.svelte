@@ -1,10 +1,11 @@
 <script>
+	import Greeting from "./components/Greeting.svelte"
 	import Footer from "./components/Footer.svelte"
 </script>
 
 <main>
 	<h1>Digital Art Portfolio</h1>
-	<p>Good morning.</p>
+	<Greeting />
 	<hr/>
 	<div>
 		<ul class="nav">
@@ -27,7 +28,8 @@
 	}
 	h1 {
 		text-transform: uppercase;
-		font-size:2em;
+		font-size: 2em;
+		font-family: 'Merchant Copy Wide', 'Merchant Copy';
 	}
 
 	.nav {
