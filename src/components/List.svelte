@@ -1,3 +1,48 @@
+<script>
+  const projects = [
+    {
+      name: "ID Badge",
+      date: "10.09"
+    },
+    {
+      name: "Animorph",
+      date: "10.09"
+    },
+    {
+      name: "Hand Collage",
+      date: "10.09"
+    },
+    {
+      name: "Digital Mandala",
+      date: "10.09"
+    },
+    {
+      name: "Color Scheme Collage",
+      date: "10.09"
+    },
+    {
+      name: "Flat Landscape Painting",
+      date: "10.09"
+    },
+    {
+      name: "Color Formula Monster",
+      date: "10.09"
+    },
+    {
+      name: "Animated GIF",
+      date: "10.09"
+    },
+    {
+      name: "Neuro Doodle",
+      date: "10.09"
+    },
+    {
+      name: "Photo Illustration",
+      date: "10.09"
+    }
+  ]
+</script>
+
 <table>
     <thead>
       <tr>
@@ -6,25 +51,12 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td class="project-name">Landscape Drawing</td>
-        <td class="project-date">11.09</td>
-      </tr>
-
-      <tr>
-        <td class="project-name">Landscape Drawing</td>
-        <td class="project-date">11.09</td>
-      </tr>
-
-      <tr>
-        <td class="project-name">Landscape Drawing</td>
-        <td class="project-date">11.09</td>
-      </tr>
-
-      <tr>
-        <td class="project-name">Landscape Drawing</td>
-        <td class="project-date">11.09</td>
-      </tr>
+      {#each projects as p}
+        <tr>
+          <td class="project-name"><a href="/">{p.name}</a></td>
+          <td class="project-date">{p.date}</td>
+        </tr>
+	    {/each}
     </tbody>
     </table>
 
