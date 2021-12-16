@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Animorph Project</h1>
+	<h1>Animorph</h1>
 	<hr />
 	<div>
 		<a href="/">&larr; Back</a>

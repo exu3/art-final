@@ -10,6 +10,13 @@
 	</div>
 	<hr />
 	<article>
+		<div class="flex intro">
+			<img
+				src="https://cloud-hvd4ca9hs-hack-club-bot.vercel.app/0image_from_ios.png"
+				alt="A digital illustration of a person"
+			/>
+			<p class="ml-3 copy">Hi. I'm Ella, a senior at Foothill High School and maker of things.</p>
+		</div>
 		<span class="heading">About me</span>
 		<p class="copy">
 			My work samples a variety of art styles but is concentrated in digital mediums. I love to
@@ -49,9 +56,29 @@
 		text-align: center;
 	}
 
+	img {
+		width: 20%;
+		margin: 0 auto;
+		border-radius: 100%;
+		border: 2px solid gray;
+	}
+
+	.flex {
+		display: flex;
+		flex-direction: row;
+	}
+
+	.intro {
+		padding-bottom: 20px;
+	}
+
 	.heading {
 		font-weight: bold;
 		font-size: 1.5em;
+	}
+
+	.ml-3 {
+		margin-left: 1em;
 	}
 
 	.copy {

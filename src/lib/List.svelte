@@ -45,8 +45,6 @@
 			date: '12.03'
 		}
 	];
-
-	console.log(toKebabCase(projects[0].name));
 </script>
 
 <table>
