@@ -32,7 +32,8 @@
 		text-align: center;
 	}
 
-	.text-center {
-		text-align: center;
+	img {
+		width: 450px;
+		margin: 0 auto;
 	}
 </style>

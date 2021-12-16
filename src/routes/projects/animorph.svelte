@@ -11,7 +11,10 @@
 	<hr />
 	<article>
 		<p>main body here</p>
-		<img src="https://github.com/eilla1.png" alt="hi" />
+		<img
+			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/animorph_project/animal_camel_EX.jpg?token=ARIDILFRRIA2CIRUCMUQ7F3BYQU32"
+			alt="hi"
+		/>
 	</article>
 	<hr />
 	<p class="text-center">******** END ********</p>
@@ -32,7 +35,8 @@
 		text-align: center;
 	}
 
-	.text-center {
-		text-align: center;
+	img {
+		width: 450px;
+		margin: 0 auto;
 	}
 </style>
