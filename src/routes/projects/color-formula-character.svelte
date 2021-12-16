@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This was a project designed to explore various types of colour schemes and the messages they
+			convey. For this project, I used a complementary color scheme. This also reflects the spirit
+			of Halloween, hence the broom stick and witch hat.
+		</p>
 		<img
 			src="https://user-images.githubusercontent.com/72365100/146421645-6b00e5ff-5721-44e0-a341-78d7a3858076.png"
 			alt="hi"

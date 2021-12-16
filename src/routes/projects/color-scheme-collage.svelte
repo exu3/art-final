@@ -10,7 +10,10 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This piece uses a triatic color scheme. It includes a digital dinosaur illustration as well as
+			other textures including paper and ink. It's meant to reflect features of a postage stamp.
+		</p>
 		<img
 			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/color_scheme_collage/postage_riveter_dino.jpg?token=ARIDILDVIAWDXCPHLO5T7MLBYSTRA"
 			alt="hi"

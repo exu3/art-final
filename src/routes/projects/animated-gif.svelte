@@ -10,10 +10,13 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This piece is an animated GIF of a dinosaur. It is a 15-frame, looping animation of a jumping
+			dinosaur. I was inspired to create this as a small feature for a livestream overlay.
+		</p>
 		<img
 			src="https://user-images.githubusercontent.com/72365100/146412875-44a6100e-a981-45fd-9e39-39647edcf505.gif"
-			alt="hi"
+			alt="Animated dinosaur yay"
 		/>
 	</article>
 	<hr />

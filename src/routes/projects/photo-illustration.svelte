@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This piece is combines elements of digital illustration with photos. I outlined the sweatshirt
+			and hood as well as a green leafy branch that was visible from the window view. This original
+			photo was taken at a <a href="https://codeday.org/ba">CodeDay</a> event.
+		</p>
 		<img
 			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/photo_illustration/photoillustration.jpg?token=ARIDILFGJOVHTNILNEVFCODBYSTN6"
 			alt="hi"

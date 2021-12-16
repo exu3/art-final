@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This digital mandala is a piece created in Photoshop as an exercise for using the lasso tool.
+			The original photo is a sunrise landscape taken from the back of a rail car. After creating a
+			triangular segment from the original photo, the piece repeats in a circular pattern.
+		</p>
 		<img
 			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/mandala/Mandala2.jpg?token=ARIDILDP2NLYOMO22UGZ5T3BYSTLY"
 			alt="hi"

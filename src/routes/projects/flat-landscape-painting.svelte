@@ -10,7 +10,10 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This project uses a monochromatic color scheme. It is a combination of mountain layers created
+			using the lasso and fill tools.
+		</p>
 		<img
 			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/flat_landscape_painting/landscape.jpg?token=ARIDILFG6H4QXJLY52PLOQDBYSS76"
 			alt="hi"

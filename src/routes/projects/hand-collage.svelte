@@ -10,7 +10,7 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">main body here</p>
 		<img
 			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/hand_collage/handcollage.jpg?token=ARIDILG42WOM4EJZDNUINWTBYSTC2"
 			alt="hi"

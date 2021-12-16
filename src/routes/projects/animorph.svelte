@@ -10,10 +10,14 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This piece is a morph of multiple animals including a camel, dinosaur, and cat. The ears are
+			that of a cat; the neck is that of a sauropod; and the body is that of a camel. This piece was
+			created in Photoshop using various blending tools and layer masks.
+		</p>
 		<img
 			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/animorph_project/animal_camel_EX.jpg?token=ARIDILFRRIA2CIRUCMUQ7F3BYQU32"
-			alt="hi"
+			alt="A camel, dinosaur, and cat morphed into one animal."
 		/>
 	</article>
 	<hr />
