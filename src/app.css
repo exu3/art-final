@@ -90,3 +90,7 @@ hr {
 	text-decoration: underline;
 	text-decoration-style: dotted;
 }
+
+.text-center {
+	text-align: center;
+}
