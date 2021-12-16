@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Project</h1>
+	<h1>Digital Mandala</h1>
 	<hr />
 	<div>
 		<a href="/">&larr; Back</a>
@@ -11,7 +11,10 @@
 	<hr />
 	<article>
 		<p>main body here</p>
-		<img src="https://github.com/eilla1.png" alt="hi" />
+		<img
+			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/mandala/Mandala2.jpg?token=ARIDILDP2NLYOMO22UGZ5T3BYSTLY"
+			alt="hi"
+		/>
 	</article>
 	<hr />
 	<p class="text-center">******** END ********</p>

@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Project</h1>
+	<h1>Animated GIF</h1>
 	<hr />
 	<div>
 		<a href="/">&larr; Back</a>
@@ -11,7 +11,10 @@
 	<hr />
 	<article>
 		<p>main body here</p>
-		<img src="https://github.com/eilla1.png" alt="hi" />
+		<img
+			src="https://user-images.githubusercontent.com/72365100/146412875-44a6100e-a981-45fd-9e39-39647edcf505.gif"
+			alt="hi"
+		/>
 	</article>
 	<hr />
 	<p class="text-center">******** END ********</p>

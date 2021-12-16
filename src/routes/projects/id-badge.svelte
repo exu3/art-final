@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Project</h1>
+	<h1>Fake ID Badge</h1>
 	<hr />
 	<div>
 		<a href="/">&larr; Back</a>
@@ -11,7 +11,10 @@
 	<hr />
 	<article>
 		<p>main body here</p>
-		<img src="https://github.com/eilla1.png" alt="hi" />
+		<img
+			src="https://user-images.githubusercontent.com/72365100/146411714-6d3395c1-89ea-4e36-a001-8bc39c1e30a0.png"
+			alt="hi"
+		/>
 	</article>
 	<hr />
 	<p class="text-center">******** END ********</p>
