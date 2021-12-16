@@ -10,7 +10,15 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This piece is a [fake] ID badge representing an organization and position of choice. This
+			project was designed in Adobe Photoshop, and it was my first time using the software. I
+			labeled myself as a Dino Connisseur because I am a maintainer of a large <a
+				href="https://hack.af/dino"
+			>
+				open-source repository of dinosaurs</a
+			>.
+		</p>
 		<img
 			src="https://user-images.githubusercontent.com/72365100/146411714-6d3395c1-89ea-4e36-a001-8bc39c1e30a0.png"
 			alt="hi"

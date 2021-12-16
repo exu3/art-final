@@ -29,7 +29,7 @@
 			date: '10.22'
 		},
 		{
-			name: 'Color Formula Monster',
+			name: 'Color Formula Character',
 			date: '11.02'
 		},
 		{

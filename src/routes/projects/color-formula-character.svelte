@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Project</h1>
+	<h1>Color Formula Character</h1>
 	<hr />
 	<div>
 		<a href="/">&larr; Back</a>
@@ -11,7 +11,10 @@
 	<hr />
 	<article>
 		<p>main body here</p>
-		<img src="https://github.com/eilla1.png" alt="hi" />
+		<img
+			src="https://user-images.githubusercontent.com/72365100/146421645-6b00e5ff-5721-44e0-a341-78d7a3858076.png"
+			alt="hi"
+		/>
 	</article>
 	<hr />
 	<p class="text-center">******** END ********</p>

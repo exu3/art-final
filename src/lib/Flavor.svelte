@@ -7,7 +7,10 @@
 		'Moooooooo.',
 		'Errrrrrrrrr...',
 		'Nutella.',
-		'Ella eating chair.'
+		'Ella eating chair.',
+		'This website is open source!',
+		'✨ 🦕',
+		'Greetings, mortal.'
 	];
 	const index = Math.floor(Math.random() * text.length);
 

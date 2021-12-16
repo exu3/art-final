@@ -94,3 +94,7 @@ hr {
 .text-center {
 	text-align: center;
 }
+
+.copy {
+	line-height: 1em;
+}
