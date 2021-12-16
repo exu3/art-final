@@ -2,35 +2,35 @@
   const projects = [
     {
       name: "ID Badge",
-      date: "10.09"
+      date: "9.10"
     },
     {
       name: "Animorph",
-      date: "10.09"
+      date: "9.21"
     },
     {
       name: "Hand Collage",
-      date: "10.09"
+      date: "9.28"
     },
     {
       name: "Digital Mandala",
-      date: "10.09"
+      date: "10.11"
     },
     {
       name: "Color Scheme Collage",
-      date: "10.09"
+      date: "10.12"
     },
     {
       name: "Flat Landscape Painting",
-      date: "10.09"
+      date: "10.22"
     },
     {
       name: "Color Formula Monster",
-      date: "10.09"
+      date: "11.02"
     },
     {
       name: "Animated GIF",
-      date: "10.09"
+      date: "11.19"
     },
     {
       name: "Neuro Doodle",
@@ -38,7 +38,7 @@
     },
     {
       name: "Photo Illustration",
-      date: "10.09"
+      date: "12.03"
     }
   ]
 </script>
@@ -47,7 +47,7 @@
     <thead>
       <tr>
         <th class="text-left">Project</th>
-        <th class="text-right">Date</th>
+        <th class="text-right">Date (Year 2021)</th>
       </tr>
     </thead>
     <tbody>

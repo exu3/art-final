@@ -85,3 +85,8 @@ button:focus {
 hr {
   border-top: 1px dashed black;
 }
+
+.dotted-underline {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
