@@ -10,7 +10,14 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">main body here</p>
+		<p class="copy">
+			This project was an exercise for using layers, clipping masks, and selection & transform
+			techniques. It features a stock photo of hands and other free images from the internet. The
+			background is an illustration of Monument Valley from the <a
+				href="https://hack.af/zephyr"
+				target="_blank">Hacker Zephyr</a
+			> open source repository.
+		</p>
 		<img
 			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/hand_collage/handcollage.jpg?token=ARIDILG42WOM4EJZDNUINWTBYSTC2"
 			alt="hi"

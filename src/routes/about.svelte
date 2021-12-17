@@ -67,8 +67,8 @@
 				>
 				with a group of 42 high school students from around the world. On the train, we collectively
 				built and shipped over 500 projects which live on the
-				<a href="https://hack.af/zephyr" target="_blank">ZephyrNET</a>, a 60-pound physical server
-				we build our own internet on.
+				<a href="https://hack.af/zn" target="_blank">ZephyrNET</a>, a 60-pound physical server we
+				build our own internet on.
 			</li>
 			<li>
 				I love to send physical mail to people, especially <a
@@ -87,7 +87,8 @@
 			</li>
 			<li>
 				I like to play with colorful <a
-					href="https://cloud-jb6z79ny8-hack-club-bot.vercel.app/0ezgif-5-42c1267663.gif">lights</a
+					href="https://cloud-jb6z79ny8-hack-club-bot.vercel.app/0ezgif-5-42c1267663.gif"
+					target="_blank">lights</a
 				>.
 			</li>
 			<li>
