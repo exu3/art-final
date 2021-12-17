@@ -36,6 +36,7 @@ a {
 
 a:hover {
 	text-decoration: underline;
+	text-decoration-style: dotted;
 }
 
 a:visited {
@@ -84,6 +85,12 @@ button:focus {
 
 hr {
 	border-top: 1px dashed black;
+}
+
+pre,
+code {
+	font-family: monospace;
+	font-size: 14px;
 }
 
 .dotted-underline {

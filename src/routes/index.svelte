@@ -2,7 +2,8 @@
 	import Greeting from '../lib/Greeting.svelte';
 	import List from '../lib/List.svelte';
 	import Footer from '../lib/Footer.svelte';
-	import Ads from '../lib/Ads.svelte';
+	import Tooltip from '../lib/Tooltip.svelte';
+	import Trex from '../lib/Trex.svelte';
 </script>
 
 <main>
@@ -11,20 +12,28 @@
 	<hr />
 	<div>
 		<ul class="nav">
-			<li><a href="#projects">Projects</a></li>
 			<li><a href="/about">About</a></li>
+			<li><a href="https://github.com/eilla1" target="_blank">GitHub</a></li>
+			<li>
+				<Tooltip title="uwu, What's this?"
+					><a href="https://uwu.boats/important" target="_blank">???</a></Tooltip
+				>
+			</li>
 		</ul>
 	</div>
 	<hr />
-	<p>
-		Hello. My name is Ella, and I am a senior at Foothill High School. This is my art portfolio for
-		Semester 1. <span class="more">Read more...</span>
+	<p class="copy">
+		Hello. My name is Ella, and this is my digital art portfolio. It features various projects I
+		worked on this semester (Fall 2021). Like what you see or want to work with me? You can reach me
+		via carrier pigeon or email to "hi&nbsp;[at]&nbsp;ella.cx".
 	</p>
-	<List />
+	<section id="projects">
+		<List />
+	</section>
 	<p class="text-center">******** END ********</p>
 	<Footer />
 	<hr />
-	<Ads />
+	<Trex />
 </main>
 
 <style>
@@ -45,12 +54,5 @@
 		flex-direction: row;
 		list-style: none;
 		justify-content: space-evenly;
-	}
-
-	.more {
-		color: blue;
-		text-decoration: underline;
-		text-decoration-style: dotted;
-		cursor: pointer;
 	}
 </style>

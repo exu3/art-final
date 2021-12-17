@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p>main body here</p>
+		<p class="copy">
+			This piece features various lines which intersect at points. At each node, the edges are
+			rounded and the lines are thickened. There are also patterns of various textures in certain
+			areas. In a way, this piece shows how neural networks are interconnected.
+		</p>
 		<img
 			src="https://raw.githubusercontent.com/eilla1/art/main/assignments/neurodoodle/neurodoodle.jpg?token=ARIDILBMRFTG4G32XS4I4BDBYSTF6"
 			alt="hi"

@@ -2,19 +2,28 @@
 	const text = [
 		'Flash plugin failed to load.',
 		'Are you a robot?',
-		'Merry Christmas.',
 		'Wahoo!',
 		'Moooooooo.',
-		'Errrrrrrrrr...',
-		'Nutella.',
 		'Ella eating chair.',
 		'This website is open source!',
 		'✨ 🦕',
-		'Greetings, mortal.'
+		'The ducks at the park are free.',
+		'When the potatoes are screaming. The potatoes are screaming.',
+		'Get dinoed lol.',
+		'Life is hard, life is stressful',
+		'I need peace and tranquility',
+		'dinosaurbbq.org',
+		'No one is around to help',
+		'Shaking my horse, my horse',
+		'Hell yeah.',
+		'Hack yeah.',
+		'Look, the cows!',
+		'Thinking about the rats.',
+		'🐝------------------'
 	];
 	const index = Math.floor(Math.random() * text.length);
 
 	const flavorText = text[index];
 </script>
 
-<p class="text-center">{flavorText}</p>
+<p class="text-center"><em>{flavorText}</em></p>
