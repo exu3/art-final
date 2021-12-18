@@ -14,6 +14,7 @@
 			<img
 				src="https://cloud-hvd4ca9hs-hack-club-bot.vercel.app/0image_from_ios.png"
 				alt="A digital illustration of a person"
+				class="pfp"
 			/>
 			<p class="ml-3 copy">Hi. I'm Ella, a senior at Foothill High School and maker of things.</p>
 		</div>
@@ -27,20 +28,57 @@
 		</p>
 		<h2>About you</h2>
 		<p class="copy">
-			You are here because you are either Ms. LaDuca, a student at FHS, Hack Clubber, or random
+			You are here because you are either my teacher, a student at FHS, Hack Clubber, or random
 			person on the internet who has stumbled upon my website. While you're here, I hope you have a
 			good time. Feel free to leave a message in the <a
 				href="https://uwu.boats/guestbook"
 				target="_blank">guestbook</a
 			> if you wish.
 		</p>
-		<h2>What I've learned</h2>
-		<p class="copy">I don't remember.</p>
-		<p class="copy">My favorite project this semester was this.</p>
+		<h2>Learnings</h2>
+		<ol class="copy">
+			<li>
+				This semester, I learned about the fundamental elements of art which include line, shape,
+				form, texture, color, value, space, among others. Through weekly art evaluations and
+				prompted art projects, we thoroughly analyzed and gained hands-on experience with these
+				concepts.
+			</li>
+			<li>
+				I also learned the basics the most commonly used tools in Adobe Photoshop. From GIFs to
+				digital illustrations to photo edits, all the class projects I created this semester
+				utilized Photoshop in some way or another.
+			</li>
+			<li>
+				One important concept I took away from this was the idea of color schemes. I learned how
+				color choice affects the mood of the piece. I also learned the names and styles of various
+				color schemes including monochromatic, triatic, analagous, complementary, among others.
+			</li>
+		</ol>
+		<p class="copy">
+			My favorite project this semester was the character illustration because it was the first
+			project where we had a lot of freedom to create something that was original.
+		</p>
+		<details>
+			<summary>I drew a dinosaur on a broom.</summary><br />
+			<img
+				class="drawing"
+				src="https://user-images.githubusercontent.com/72365100/146421645-6b00e5ff-5721-44e0-a341-78d7a3858076.png"
+				alt="hi"
+			/>
+		</details>
+
 		<h2>S2 Goals</h2>
 		<ol class="copy">
-			<li>My goal yeah.</li>
-			<li>Other goal yeah.</li>
+			<li>
+				Next semester, I hope to further explore mediums of digital art such as typeface design,
+				illustration, and 3D modeling. I've always wanted to learn Blender or try my hand at writing
+				a shader. As a self-proclaimed avid typography nerd, I would love to gain hands-on
+				experience by designing a custom font.
+			</li>
+			<li>
+				I would like to become a better storyteller with my art. This includes making concious
+				color, font, and design choices to convey a message.
+			</li>
 		</ol>
 		<h2>Random Facts, I guess</h2>
 		<ul class="copy">
@@ -117,11 +155,15 @@
 		text-align: center;
 	}
 
-	img {
+	.pfp {
 		width: 20%;
 		margin: 0 auto;
 		border-radius: 100%;
 		border: 2px solid gray;
+	}
+
+	.drawing {
+		width: 50%;
 	}
 
 	.flex {
