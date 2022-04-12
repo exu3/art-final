@@ -9,7 +9,7 @@ This is a digital portfolio of art projects I created in Semester 1 (Fall 2021).
 Clone & install dependencies...
 
 ```sh
-git clone https://github.com/eilla1/art-sem1
+git clone https://github.com/exu3/art-sem1
 cd art-sem1
 yarn
 ```
