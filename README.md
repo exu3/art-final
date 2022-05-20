@@ -1,6 +1,9 @@
-# S1 Final Project
+<div align="center">
+   <img src="./static/e.png" alt="Black ball with the letter E on it"> 
+   <h1>Art Final Project</h1>
+</div>
 
-This is a digital portfolio of art projects I created in Semester 1 (Fall 2021). It also happens to be the final for the class.
+This is a digital portfolio of art projects I created in an Art course I took in the 2021-22 school year. It also happens to be the Final Project for the class.
 
 ## Develop
 
@@ -9,8 +12,8 @@ This is a digital portfolio of art projects I created in Semester 1 (Fall 2021).
 Clone & install dependencies...
 
 ```sh
-git clone https://github.com/exu3/art-sem1
-cd art-sem1
+git clone https://github.com/exu3/art-final
+cd art-final
 yarn
 ```
 
@@ -21,7 +24,3 @@ yarn dev
 ```
 
 Navigate to [localhost:3000](http://localhost:3000).
-
-## WIP
-
-- Things I still have to do are in `todo.txt`
