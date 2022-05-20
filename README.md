@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./static/e.png" alt="Black ball with the letter E on it"> 
+   <img src="./static/e.png" alt="Black ball with the letter E on it" width="100"> 
    <h1>Art Final Project</h1>
 </div>
 
