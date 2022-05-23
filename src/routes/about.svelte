@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>\o I'm Ella.</h1>
+	<h1>Howdy. I'm Ella.</h1>
 	<hr />
 	<div>
 		<a href="/">&larr; Back</a>
@@ -28,114 +28,32 @@
 		</p>
 		<h2>About you</h2>
 		<p class="copy">
-			You are here because you are either my teacher, a student at FHS, Hack Clubber, or random
-			person on the internet who has stumbled upon my website. While you're here, I hope you have a
-			good time. Feel free to leave a message in the <a
-				href="https://uwu.boats/guestbook"
+			You are here probably here because you are a robot or happen to be grading my project. While
+			you're here, I hope you have a good time. Feel free to leave a message in the <a
+				href="https://ella.cx/book"
 				target="_blank">guestbook</a
 			> if you wish.
 		</p>
 		<h2>Learnings</h2>
 		<ol class="copy">
-			<li>
-				This semester, I learned about the fundamental elements of art which include line, shape,
-				form, texture, color, value, space, among others. Through weekly art evaluations and
-				prompted art projects, we thoroughly analyzed and gained hands-on experience with these
-				concepts.
-			</li>
-			<li>
-				I also learned the basics the most commonly used tools in Adobe Photoshop. From GIFs to
-				digital illustrations to photo edits, all the class projects I created this semester
-				utilized Photoshop in some way or another.
-			</li>
-			<li>
-				One important concept I took away from this was the idea of color schemes. I learned how
-				color choice affects the mood of the piece. I also learned the names and styles of various
-				color schemes including monochromatic, triatic, analagous, complementary, among others.
-			</li>
+			<li>Three key concepts you learned during this semester in Digital Art (5 points)</li>
+			<li>min 2 sentences each</li>
+			<li>min 2 sentences each</li>
+			<li>min 2 sentences each</li>
 		</ol>
-		<p class="copy">
-			My favorite project this semester was the character illustration because it was the first
-			project where we had a lot of freedom to create something that was original.
-		</p>
-		<details>
-			<summary>I drew a dinosaur on a broom.</summary><br />
-			<img
-				class="drawing"
-				src="https://user-images.githubusercontent.com/72365100/146421645-6b00e5ff-5721-44e0-a341-78d7a3858076.png"
-				alt="hi"
-			/>
-		</details>
+		<p class="copy">This was my favorite project from the semester:</p>
+		<img
+			class="drawing"
+			src="https://user-images.githubusercontent.com/72365100/146421645-6b00e5ff-5721-44e0-a341-78d7a3858076.png"
+			alt="hi"
+		/>
 
-		<h2>S2 Goals</h2>
+		<h2>Post high school goals in art</h2>
 		<ol class="copy">
-			<li>
-				Next semester, I hope to further explore mediums of digital art such as typeface design,
-				illustration, and 3D modeling. I've always wanted to learn Blender or try my hand at writing
-				a shader. As a self-proclaimed avid typography nerd, I would love to gain hands-on
-				experience by designing a custom font.
-			</li>
-			<li>
-				I would like to become a better storyteller with my art. This includes making concious
-				color, font, and design choices to convey a message.
-			</li>
+			<li>minimum of three goals</li>
+			<li>minimum of three goals</li>
+			<li>minimum of three goals</li>
 		</ol>
-		<h2>Random Facts, I guess</h2>
-		<ul class="copy">
-			<li>
-				I was born and raised in Pleasanton, and I've lived in the same house for all my life so
-				far.
-			</li>
-			<li>
-				I am a web designer-developer by trade. Some websites I've worked on in the past are <a
-					href="https://hackclub.com/bank"
-					target="_blank"
-				>
-					Hack Club Bank</a
-				>,
-				<a href="https://givebutter.com/fiscal-sponsorship" target="_blank"
-					>Givebutter (fiscal sponsorship)</a
-				>, and the
-				<a href="https://foundation.dogecoin.com" target="_blank">Dogecoin Foundation</a>.
-			</li>
-			<li>
-				Last summer (2021), I went on a train across America from Burlington, Vermont to SpaceX in
-				Southern California known as the <a href="https://hack.af/zephyrdoc" target="_blank"
-					>Hacker Zephyr</a
-				>
-				with a group of 42 high school students from around the world. On the train, we collectively
-				built and shipped over 500 projects which live on the
-				<a href="https://hack.af/zn" target="_blank">ZephyrNET</a>, a 60-pound physical server we
-				build our own internet on.
-			</li>
-			<li>
-				I love to send physical mail to people, especially <a
-					href="https://hackclub.com/stickers"
-					target="_blank">stickers</a
-				> :D
-			</li>
-			<li>
-				Last November (2021), I helped organize CodeDay Bay Area, a 24-hour, in-person coding event
-				which was held in Pleasanton!
-			</li>
-			<li>
-				I actively contribute to open source on <a href="https://github.com/eilla1" target="_blank"
-					>GitHub</a
-				>.
-			</li>
-			<li>
-				I like to play with colorful <a
-					href="https://cloud-jb6z79ny8-hack-club-bot.vercel.app/0ezgif-5-42c1267663.gif"
-					target="_blank">lights</a
-				>.
-			</li>
-			<li>
-				I worked as a farm hand in summer (2019) on a small organic vegetable farm in Sunol, CA. It
-				was a blast, but also tiring.
-			</li>
-			<li>I enjoy drawing dinosaurs and ducks.</li>
-			<li>After high school, I plan to pursue higher education. I'm not sure where yet.</li>
-		</ul>
 	</article>
 	<p class="text-center">******** END ********</p>
 	<hr />

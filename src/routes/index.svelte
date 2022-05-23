@@ -13,7 +13,7 @@
 	<div>
 		<ul class="nav">
 			<li><a href="/about">About</a></li>
-			<li><a href="https://github.com/eilla1" target="_blank">GitHub</a></li>
+			<li><a href="https://github.com/exu3" target="_blank">GitHub</a></li>
 			<li>
 				<Tooltip title="uwu, What's this?"
 					><a href="https://uwu.boats/important" target="_blank">???</a></Tooltip
@@ -22,11 +22,7 @@
 		</ul>
 	</div>
 	<hr />
-	<p class="copy">
-		Hello. My name is Ella, and this is my digital art portfolio. It features various projects I
-		worked on this semester (Fall 2021). Like what you see or want to work with me? You can reach me
-		via carrier pigeon or email to "hi&nbsp;[at]&nbsp;ella.cx".
-	</p>
+
 	<section id="projects">
 		<List />
 	</section>
