@@ -1,4 +1,9 @@
 <main>
+	<img
+		src="/e.png"
+		alt="Black ball with letter E in front and center"
+		style="margin: 0 auto; text-align: center; display: block; width: 70px"
+	/>
 	<slot />
 </main>
 

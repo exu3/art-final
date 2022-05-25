@@ -62,47 +62,43 @@
 	const projects2 = [
 		{
 			name: '3D Abstract Object',
-			date: 'idk'
+			date: '1.20'
 		},
 		{
 			name: 'Shape Flat Characters',
-			date: 'idk'
+			date: '2.04'
 		},
 		{
 			name: 'Tourist Map',
-			date: 'idk'
+			date: '2.16'
 		},
 		{
 			name: 'Type Object',
-			date: 'idk'
+			date: '3.04'
 		},
 		{
 			name: 'Restaurant Logo',
-			date: 'idk'
+			date: '3.25'
 		},
 		{
 			name: 'Restaurant T-shirt',
-			date: 'idk'
+			date: '4.01'
 		},
 		{
 			name: 'Restaurant Menu',
-			date: 'idk'
+			date: '5.03'
 		},
 		{
 			name: 'Restaurant Food Truck',
-			date: 'idk'
+			date: '5.10'
 		},
 		{
 			name: 'Foothill T-Shirt',
-			date: 'idk'
+			date: '4.15'
 		},
 		{
 			name: 'Free Project',
-			date: 'idk'
-		},
-		{
-			name: 'Extra Credit',
-			date: 'idk'
+			date: '5.20'
 		}
 	];
 </script>

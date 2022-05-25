@@ -7,6 +7,11 @@
 </script>
 
 <main>
+	<img
+		src="./e.png"
+		alt="Black ball with letter E in front and center"
+		style="margin: 0 auto; text-align: center; display: block"
+	/>
 	<h1>Digital Art Portfolio</h1>
 	<Greeting />
 	<hr />
