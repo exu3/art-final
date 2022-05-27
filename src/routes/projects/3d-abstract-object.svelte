@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">copy here</p>
+		<p class="copy">
+			This piece was created in Photoshop using the 3D Object tooling. It features a combination of
+			colors combined into an abstract shape. To add to the 3D effect, there is also a shadow in the
+			background.
+		</p>
 		<img src="/sem2/3dshape.png" alt="3-dimensional colorful shape" />
 	</article>
 	<hr />

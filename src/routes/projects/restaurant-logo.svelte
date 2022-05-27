@@ -10,7 +10,13 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">asdf</p>
+		<p class="copy">
+			This logo was created in Illustrator as a part of the Restaurant Rebrand project. Prior to
+			creating this design, I made several other logos as a proof-of-concept. This logo was created
+			using the Pen tool in Illustrator juxtaposed with the <a
+				href="https://github.com/exu3/wack-club-sans">Wack Club Sans font</a
+			>.
+		</p>
 		<img src="/sem2/logo.png" alt="Wahoo's Fish Taco logo" />
 	</article>
 	<hr />

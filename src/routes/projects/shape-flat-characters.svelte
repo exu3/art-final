@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">copy copy</p>
+		<p class="copy">
+			This piece was created in Illustrator. It is a flat cartoon character created with only the
+			shapes and the pathfinder tool. This was challenging, but I learned a lot about how basic
+			shapes can tell a story.
+		</p>
 		<img src="/sem2/shapechar1.png" alt="Illustrated person making a face" />
 		<img src="/sem2/shapechar2.png" alt="Illustrated person making a face" />
 	</article>

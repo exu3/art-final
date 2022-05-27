@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">sdfasdf</p>
+		<p class="copy">
+			This t-shirt design was created for the Class of 2026 class shirt. It features an 8-bit style
+			falcon juxtaposed with a bitmap font. Like the other t-shirt designs, it is minimalistic and
+			clean.
+		</p>
 		<img src="/sem2/asbshirt.png" alt="T-shirt with 8bit falcon design" />
 	</article>
 	<hr />

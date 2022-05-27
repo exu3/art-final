@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">awefaewf</p>
+		<p class="copy">
+			This piece was created in Illustrator. It is a map of San Francisco featuring many streets and
+			landmarks. The icons and roads were outlined using the Pen tool in illustrator. The colour
+			scheme was chosen to resemble natural Earth tones.
+		</p>
 		<img src="/sem2/touristmap.png" alt="Illustrated map of San Francisco" />
 	</article>
 	<hr />

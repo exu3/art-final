@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">asdfasdf</p>
+		<p class="copy">
+			This piece was created as a part of the Restaurant Rebrand project. It is a Food Truck design
+			that uses the other elements in the branding package—colors, fonts, and logos. The bright
+			colors are meant to make the truck stand out.
+		</p>
 		<img src="/sem2/foodtruck.png" alt="Food truck illustration" />
 	</article>
 	<hr />

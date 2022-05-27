@@ -10,7 +10,12 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">ajsdf</p>
+		<p class="copy">
+			This t-shirt design was created as a part of the Restaurant Rebrand project. It reflects a
+			minimalist design with the basic logo on the right chest in the front and the full logo
+			centered on the back. The gold and navy colors complement each other to create a neat visual
+			appeal.
+		</p>
 		<img src="/sem2/wahooshirt.png" alt="Gold t-shirt with a navy blue emblem" />
 	</article>
 	<hr />

@@ -11,11 +11,7 @@
 	<hr />
 	<article>
 		<div class="flex intro">
-			<img
-				src="https://cloud-hvd4ca9hs-hack-club-bot.vercel.app/0image_from_ios.png"
-				alt="A digital illustration of a person"
-				class="pfp"
-			/>
+			<img src="/me.JPG" alt="A digital illustration of a person" class="pfp" />
 			<p class="ml-3 copy">Hi. I'm Ella, a senior at Foothill High School and maker of things.</p>
 		</div>
 		<span class="heading">About me</span>
@@ -36,23 +32,27 @@
 		</p>
 		<h2>Learnings</h2>
 		<ol class="copy">
-			<li>Three key concepts you learned during this semester in Digital Art (5 points)</li>
-			<li>min 2 sentences each</li>
-			<li>min 2 sentences each</li>
-			<li>min 2 sentences each</li>
+			<li>
+				I learned how to use Bezier curves effectively. I used this skill to create vector graphics
+				for Illustrator projects.
+			</li>
+			<li>
+				I learned how to use various typography tools in Illustrator. This includes type-area, 3D
+				type, among others.
+			</li>
+			<li>
+				I learned about the various elements that go into a logo design. I used these principles in
+				the Restaurant Rebrand project.
+			</li>
 		</ol>
 		<p class="copy">This was my favorite project from the semester:</p>
-		<img
-			class="drawing"
-			src="https://user-images.githubusercontent.com/72365100/146421645-6b00e5ff-5721-44e0-a341-78d7a3858076.png"
-			alt="hi"
-		/>
+		<img class="drawing" src="/sem2/hackhackclub.png" alt="hi" />
 
 		<h2>Post high school goals in art</h2>
 		<ol class="copy">
-			<li>minimum of three goals</li>
-			<li>minimum of three goals</li>
-			<li>minimum of three goals</li>
+			<li>To design something for a product with real users</li>
+			<li>To create a branding package for a big project or event</li>
+			<li>To ship a piece of art on a bi-weekly basis</li>
 		</ol>
 	</article>
 	<p class="text-center">******** END ********</p>
@@ -74,7 +74,8 @@
 	}
 
 	.pfp {
-		width: 20%;
+		width: 85px;
+		height: 85px;
 		margin: 0 auto;
 		border-radius: 100%;
 		border: 2px solid gray;

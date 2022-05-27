@@ -10,7 +10,12 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">This piece iasdfasdfasdf</p>
+		<p class="copy">
+			This piece was created as a part of the Restaurant Rebrand project. Side note that I did not
+			fully complete this project, so the design below is just the Kids Menu portion of the project.
+			The background features a kaleidoscopic pattern of dinosaurs and fish. The body font is
+			Franuces, and the headings use the logo font, Wack Club Sans.
+		</p>
 		<img src="/sem2/menu.png" alt="Restaurant Menu" />
 	</article>
 	<hr />

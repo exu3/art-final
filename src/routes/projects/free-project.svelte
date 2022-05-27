@@ -10,7 +10,12 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">stickorz</p>
+		<p class="copy">
+			For my free project, I chose to design stickers. I am an avid fan of stickers and regularly
+			exchange stickers with friends through the mail. The 1st sticker resembles the DuckDuckDuckGo
+			logo but uses a Dinosaur instead of a duck. The second logo is a play on the old MasterCard
+			logo.
+		</p>
 		<img src="/sem2/hackhackclub.png" alt="Duck duck go logo but modified" />
 		<img src="/sem2/mastercardsticker.png" alt="Mastercard logo but modified" />
 	</article>

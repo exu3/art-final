@@ -10,7 +10,11 @@
 	</div>
 	<hr />
 	<article>
-		<p class="copy">awefawef</p>
+		<p class="copy">
+			This piece primarily uses the type-area tool in Illustrator. The outline was created using the
+			Pen tool and resembles the shape of a deer. In the eyes of a normal person, the text inside is
+			merely gibberish, but to the Caribou Cult, it is a recruitment tactic.
+		</p>
 		<img src="/sem2/typeobj.png" alt="Deer" />
 	</article>
 	<hr />
